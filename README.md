@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/zohaibkhan6" target="blank"><img src="https://img.shields.io/twitter/follow/zohaibkhan6?logo=twitter&style=for-the-badge" alt="zohaibkhan6" /></a> </p>
 
-- 🔭 I’m currently working on **Recipes App**
+- 🔭 I’m currently working on **WhatsApp Clone App**
 
 - 🌱 I’m currently learning **FireBase**
 
