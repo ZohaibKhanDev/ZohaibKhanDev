@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zohaib</h1>
-<h3 align="center">A passionate full stack android developer from Pakistan</h3>
+<h3 align="center">A passionate android developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohaibkhandev&label=Profile%20views&color=0e75b6&style=flat" alt="zohaibkhandev" /> </p>
 
