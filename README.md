@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZohaibKhanDev](https://github.com/ZohaibKhanDev)
 
-- 💬 Ask me about **Android Kotlin**
+- 💬 Ask me about **Jetpack Compose, Kotlin**
 
 - 📫 How to reach me **mzkhan9610@gmail.com**
 
