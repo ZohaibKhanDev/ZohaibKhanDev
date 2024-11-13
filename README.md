@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/zohaibkhan6" target="blank"><img src="https://img.shields.io/twitter/follow/zohaibkhan6?logo=twitter&style=for-the-badge" alt="zohaibkhan6" /></a> </p>
 
-- 🔭 I’m currently working on **FireBase**
+- 🔭 I’m currently working on **KMP,CMP**
 
-- 🌱 I’m currently learning **FireBase**
+- 🌱 I’m currently learning **CMP**
 
 - 👯 I’m looking to collaborate on **Kmp**
 
